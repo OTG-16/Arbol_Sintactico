@@ -39,7 +39,7 @@ c = a+b;
 c = suma(8,9);
 }"
 
-, y se da click en el botón de analizar. Al ser una cadena válida el programa muestra una ventana con el mensaje de "cadena aceptada!" y despliega la siguiente información:
+tal y como se pidió en la actividad y se da click en el botón de analizar. Al ser una cadena válida el programa muestra una ventana con el mensaje de "cadena aceptada!" y despliega la siguiente información:
 ### Texto ingresado
 ![T1](https://user-images.githubusercontent.com/70919055/202300882-19939662-ce3c-4942-b0dc-60ca9f9251b7.png)
 ### Resultado
@@ -51,7 +51,7 @@ c = suma(8,9);
 En la imagen del árbol sintáctico puede apreciarse el mismo, aunque al contener varios tokens, no se logra apreciar muy bien estos y sus enlaces. Para lo cual, si queremos ir navegando a lo largo del árbol tenemos que dar click en el icono de la lupa que está en la parte superior izquierda de la ventana (5ta posición de izquierda a derecha), de inmediato se activara una función para seleccionar una parte de la ventana a la cual queramos hacerle zoom. Adicionalmente podemos movernos hacia los lados dandole click al icono que tiene las flechas hacia los lados fusionadas (4ta posición de izquierda a derecha). Además de poder regresar a un punto anterior o posterior dándole click al icono de derecha e izquierda respectivamente (2da y 3ra posición de izquierda a derecha).
 Como prueba de ello, navegaré sobre el árbol tal y como se muestra a continuación:
 #### * Navegando sobre el árbol sintáctico 
-- Parte superior del árbol
+- Parte inferior del árbol
 ![t4](https://user-images.githubusercontent.com/70919055/202308795-aafb443f-0ded-4119-9be7-be496ecf2547.png)
 ![t4_2](https://user-images.githubusercontent.com/70919055/202308902-68b5b939-7d32-4372-97ae-07d8bb729dc4.png)
 ![t4_3](https://user-images.githubusercontent.com/70919055/202308941-2c31f58e-c3cd-48d7-ba8d-2feef874a268.png)
